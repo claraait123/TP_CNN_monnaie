@@ -1,0 +1,17 @@
+# --- PyTorch et Vision (Cœur du projet) ---
+torch>=2.0.0
+torchvision>=0.15.0
+
+# --- Manipulation et analyse de données ---
+pandas>=2.0.0
+scikit-learn>=1.2.0
+
+# --- Traitement d'images ---
+Pillow>=9.0.0
+
+# --- Visualisation ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# --- Utilitaires ---
+tqdm>=4.65.0
